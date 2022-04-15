@@ -1,0 +1,32 @@
+@media only screen and (max-width: 480px) {
+  .btn {
+    font-size: 1.5rem;
+  }
+  .between {
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 2.2rem;
+  }
+  .number {
+    font-size: 4rem;
+  }
+  .guess {
+    margin-top: 80px;
+    padding: 2rem;
+  }
+  .right {
+    font-size: 1.5rem;
+  }
+  .message {
+    margin: 2rem 1rem;
+    text-align: center;
+  }
+  .label-score,
+  .label-highscore {
+    margin-left: 1.2rem;
+  }
+  main {
+    flex-wrap: wrap;
+  }
+}
